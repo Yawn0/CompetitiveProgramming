@@ -1,4 +1,4 @@
-﻿using CompetitiveProgrammingExs.Exercises;
+﻿using CompetitiveProgramming.Exercises;
 using System.Collections;
 using System.Numerics;
 
